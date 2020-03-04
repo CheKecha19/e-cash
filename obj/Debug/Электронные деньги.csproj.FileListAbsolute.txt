@@ -1,0 +1,19 @@
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\bin\Debug\Электронные деньги.exe.config
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\bin\Debug\Электронные деньги.exe
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\bin\Debug\Электронные деньги.pdb
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\obj\Debug\MainWindow.g.cs
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\obj\Debug\App.g.cs
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\obj\Debug\Электронные деньги_MarkupCompile.cache
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\obj\Debug\Электронные деньги_MarkupCompile.lref
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\obj\Debug\MainWindow.baml
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\obj\Debug\Электронные деньги.g.resources
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\obj\Debug\Электронные_деньги.Properties.Resources.resources
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\obj\Debug\Электронные деньги.csproj.GenerateResource.cache
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\obj\Debug\Электронные деньги.exe
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\obj\Debug\Электронные деньги.pdb
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\obj\Debug\демонстрация.g.cs
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\obj\Debug\Реализация.g.cs
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\obj\Debug\демонстрация.baml
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\obj\Debug\Реализация.baml
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\bin\Debug\Электронные деньги.exe.CodeAnalysisLog.xml
+C:\Users\Andrey\YandexDisk\сибосий\сиб41-2\курсач гриднев\Электронные деньги\Электронные деньги\bin\Debug\Электронные деньги.exe.lastcodeanalysissucceeded
